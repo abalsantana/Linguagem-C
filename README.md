@@ -4,12 +4,17 @@
 
 # Por tópicos
 
-- Arquivo
+[x] [Arquivo](https://github.com/abalsantana/Linguagem-C/tree/main/Arquivo)
 
-- Matrizes
-- Recursividade
-- String
-- Struct
-- Listas
-- Outros
+[x] [Matrizes](https://github.com/abalsantana/Linguagem-C/tree/main/Matrizes)
+
+[x] [Recursividade](https://github.com/abalsantana/Linguagem-C/tree/main/Recursividade)
+
+[x] [String](https://github.com/abalsantana/Linguagem-C/tree/main/String)
+
+[x] [Struct](https://github.com/abalsantana/Linguagem-C/tree/main/Struct)
+
+[ ] Listas
+
+[x] [Outros](https://github.com/abalsantana/Linguagem-C/tree/main/Outros)
 
