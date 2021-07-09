@@ -11,7 +11,6 @@ void inverte(int n){
 		printf("%d",n);
 		
 	}
-	//return;
 }
 
 int main(void) {
